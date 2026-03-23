@@ -27,7 +27,7 @@ The result is a more realistic and cost-sensitive routing model, particularly su
 </p>
 
 <p align="center">
-Terrain-aware routing (green) avoids high-cost regions compared to baseline routing (pink).
+Terrain-aware routing (pink) avoids high-cost regions compared to baseline routing (green).
 </p>
 
 
