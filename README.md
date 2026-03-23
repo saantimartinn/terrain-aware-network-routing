@@ -18,6 +18,25 @@ Unlike traditional shortest-path approaches, this framework incorporates:
 The result is a more realistic and cost-sensitive routing model, particularly suited for infrastructure planning (e.g., fiber deployment).
 
 ---
+##  Confidentiality Notice
+
+This repository is a **sanitized public version** of a larger system.
+
+### Included:
+
+* methodology
+* pseudocode
+* simplified implementations
+* synthetic experiments
+
+### Excluded:
+
+* production code
+* internal datasets
+* proprietary integrations
+* real infrastructure data
+
+---
 
 ##  Example Output
 
@@ -174,26 +193,6 @@ terrain-aware-fiber-routing/
 ├── demo/           # Runnable simplified examples
 ├── data/           # Data specification (no real data)
 ```
-
----
-
-##  Confidentiality Notice
-
-This repository is a **sanitized public version** of a larger system.
-
-### Included:
-
-* methodology
-* pseudocode
-* simplified implementations
-* synthetic experiments
-
-### Excluded:
-
-* production code
-* internal datasets
-* proprietary integrations
-* real infrastructure data
 
 ---
 
